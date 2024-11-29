@@ -113,4 +113,5 @@ const importDesignSchema = {
     }
   ]
 };
+
 export default importDesignSchema;
